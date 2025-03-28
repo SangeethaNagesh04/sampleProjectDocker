@@ -8,6 +8,6 @@ public class HelloController {
 
     @RequestMapping("/")
     public String hello() {
-        return "Hello Welcome to Docker World";
+        return "Hello Welcome to Docker World from Eclipse";
     }
 }
